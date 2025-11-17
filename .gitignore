@@ -41,14 +41,8 @@ wheels/
  results/
  *.json
  *.png
- *.txt
 
 # QEMU
 *.img
 *.qcow2
 
-# Tests
-.pytest_cache/
-.coverage
-htmlcov/
-.tox/
